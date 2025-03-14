@@ -2,15 +2,9 @@
 
 ---
 
-## NFT_MarketPlace_Youtube_Course
+## NFT_MarketPlace
 
 ###### This is my application React native course is my own store NFTS you can browse, this application contains three pages
-
----
-
-<!-- **Watch It** : [Youtube_Vidoes](https://youtu.be/vdYrOB2dSyE) -->
-
----
 
 #### install all dependencies
 
